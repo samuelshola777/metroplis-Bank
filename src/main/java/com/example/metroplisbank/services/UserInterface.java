@@ -1,2 +1,4 @@
-package com.example.metroplisbank.services;public class UserInterface {
+package com.example.metroplisbank.services;
+
+public interface UserInterface {
 }
